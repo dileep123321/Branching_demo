@@ -1,1 +1,1 @@
-console.log("Hello from DEV environment");
+console.log("Hello from QA environment");
